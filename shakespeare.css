@@ -1,5 +1,5 @@
 h5 {
-    background-color: rgb(170, 96, 209);
+    background-color: rgb(167, 43, 126);
     font-family:Arial;
     font-size: large;
     text-align: left;
@@ -22,7 +22,7 @@ body{
     background-color:rgb(179, 226, 250);
 }
 h5.A{
-    color:darkblue;
+    color:rgb(95, 224, 108);
 }
 h5.L{
     color:aquamarine;
@@ -38,4 +38,8 @@ table, th, td{
 }
 td.stripe{
     background-color: rgb(81, 102, 141)
+}
+h5:hover{
+    text-shadow: 2px 2px 5px rgb(255, 255, 19);
+
 }
